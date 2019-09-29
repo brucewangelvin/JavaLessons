@@ -12,7 +12,7 @@ public class CircleClass {
 
     }
 
-    public int getArea() {
+    public double getArea() {
         return ; 
 
         // Complete the method. Formula for Area: pi (a constant (number)) * r^2 (or r*r)
